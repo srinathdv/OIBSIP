@@ -1,14 +1,13 @@
-# Exploratory Data Analysis (EDA) on Retail Sales Data
+# TASK-1
+## Exploratory Data Analysis (EDA) on Retail Sales Data
 
-
-# Description:
+### Description:
 
 In this project,I worked with a dataset containing information about retail sales. The goal is
 to perform exploratory data analysis (EDA) to uncover patterns, trends, and insights that can
 help the retail business make informed decisions.
 
-
-# Key Concepts and Challenges:
+### Key Concepts and Challenges:
 
 1.Data Loading and Cleaning: Load the retail sales dataset.\
 2.Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).\
