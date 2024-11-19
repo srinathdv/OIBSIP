@@ -15,4 +15,4 @@ help the retail business make informed decisions.
 3.Time Series Analysis: Analyze sales trends over time using time series techniques.\
 4.Customer and Product Analysis: Analyze customer demographics and purchasing behavior.\
 5.Visualization: Present insights through bar charts, line plots, and heatmaps.\
-6.Recommendations: Provide actionable recommendations based on the EDA.\
+6.Recommendations: Provide actionable recommendations based on the EDA.
